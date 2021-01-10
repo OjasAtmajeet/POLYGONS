@@ -1,2 +1,1 @@
-# POLYGONS
-this is a polygon game
+# TowerSiege-1
